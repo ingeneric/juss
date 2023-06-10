@@ -1,1 +1,1 @@
-# juss-core
+# juss
